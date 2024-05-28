@@ -1,0 +1,10 @@
+p{
+  color: red;
+  border: 2px solid red;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+}
+p::first-letter{
+  color:green;
+}
